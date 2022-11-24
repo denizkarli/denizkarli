@@ -4,7 +4,7 @@ Hi 👋 My name is Deniz Karlı
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [denizkarli@protonmail.com](mailto:denizkarli@protonmail.com)
 * 🧠  I'm learning C# and JavaScript
-* ⚡  They said this is the new LinkedIn :D
+* ⚡  there are 10 types of people in this world, those who understand binary and those who dont.
 
 ### Skills
 
